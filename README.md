@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=GianFederico&style=flat&color=orange&label=PROFILE+VIEWS)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GianFederico&theme=codeSTACKr&show_icons=true)
+![GianFederico's GitHub stats](https://github-readme-stats.vercel.app/api?username=GianFederico&theme=codeSTACKr&show_icons=true)
 
 [![Linkedin: GianFederico](https://img.shields.io/badge/-GianFederico-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gianfederico-poli/)](https://www.linkedin.com/in/gianfederico-poli/)
 [![GitHub GianFederico](https://img.shields.io/github/followers/GianFederico?label=follow&style=social)](https://github.com/GianFederico)
