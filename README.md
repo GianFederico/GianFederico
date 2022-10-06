@@ -1,9 +1,9 @@
 
 ### Hi there, I'm GianFederico👋<br>
 
-<em> 2021 - Bachelor's Degree in Computer Science at <a href="https://www.uniba.it/it/ricerca/dipartimenti/informatica">University of Bari "Aldo Moro"</a>;<br>
-<em> 2021 - Internship as Software Developer at <a href="https://www.alten.it/">Alten IT</a>;<br>
-<em> 2022 (Currently) - Master Degree Student at <a href="https://www.uniba.it/it/ricerca/dipartimenti/informatica">University of Bari "Aldo Moro"</a> - Computer Science for Artificial Intelligence;
+2021 - Bachelor's Degree in Computer Science at <a href="https://www.uniba.it/it/ricerca/dipartimenti/informatica">University of Bari "Aldo Moro"</a>;<br>
+2021 - Internship as Software Developer at <a href="https://www.alten.it/">Alten IT</a>;<br>
+2022 (Currently) - Master Degree Student at <a href="https://www.uniba.it/it/ricerca/dipartimenti/informatica">University of Bari "Aldo Moro"</a> - Computer Science for Artificial Intelligence;
 
 
 
@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 [![Linkedin: GianFederico](https://img.shields.io/badge/-GianFederico-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gianfederico-poli/)](https://www.linkedin.com/in/gianfederico-poli/)
 [![GitHub GianFederico](https://img.shields.io/github/followers/GianFederico?label=follow&style=social)](https://github.com/GianFederico)
 
+<em>"A different error message! Finally some progress!"</em>
