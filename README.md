@@ -3,7 +3,9 @@
 
 2021 - Bachelor's Degree in Computer Science at <a href="https://www.uniba.it/it/ricerca/dipartimenti/informatica">University of Bari "Aldo Moro"</a>;<br>
 2021 - Internship as Software Developer at <a href="https://www.alten.it/">Alten IT</a>;<br>
-2022 (Currently) - Master Degree Student at <a href="https://www.uniba.it/it/ricerca/dipartimenti/informatica">University of Bari "Aldo Moro"</a> - Computer Science for Artificial Intelligence;
+2024 - Master's Degree in Computer Science for Artificial Intelligence at <a href="https://www.uniba.it/it/ricerca/dipartimenti/informatica">University of Bari "Aldo Moro"</a>
+
+This is my <a href="https://gianfederico.github.io/">personal page</a>.
 
 
 
